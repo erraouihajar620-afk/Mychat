@@ -11,22 +11,18 @@ Built with Node.js, Express.js, MongoDB, and Socket.io.
 
 ## 🔐 Authentication Page
 
--->Login Page
-
 <img width="1908" height="1194" alt="screencapture-localhost-3000-2026-03-01-22_58_11" src="https://github.com/user-attachments/assets/791dbc93-c4c7-402b-9381-366a47d0d758" />
 
 
 
 ## 💬 Chat Interface
 
-![Chat Interface](./public/images/chat.png)
-
+<img width="1908" height="1194" alt="screencapture-localhost-3000-2026-03-01-22_59_08" src="https://github.com/user-attachments/assets/092e27aa-7d13-4513-8335-3d0c74bc14d1" />
 
 ## 🏫 Rooms Page
 
-![Rooms Page](./public/images/rooms.png)
+<img width="1908" height="1194" alt="screencapture-localhost-3000-2026-03-01-23_00_49" src="https://github.com/user-attachments/assets/aeb647cb-df2f-423a-95f7-f25fcc014536" />
 
----
 ---
 
 # 📖 Overview
